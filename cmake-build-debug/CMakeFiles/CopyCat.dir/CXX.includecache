@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Adam/CLionProjects/CopyCat/hashtable_3358.cpp
+iostream
+-
+string
+-
+hashtable_3358.h
+C:/Users/Adam/CLionProjects/CopyCat/hashtable_3358.h
+
+C:/Users/Adam/CLionProjects/CopyCat/hashtable_3358.h
+string
+-
+iostream
+-
+vector
+-
+
+C:/Users/Adam/CLionProjects/CopyCat/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+deque
+-
+vector
+-
+hashtable_3358.h
+C:/Users/Adam/CLionProjects/CopyCat/hashtable_3358.h
+
